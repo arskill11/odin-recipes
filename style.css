@@ -1,0 +1,85 @@
+body {
+    background-color: rgb(237, 255, 251);
+}
+
+.titlee {
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.cook {
+    height: auto;
+    width: 700px;
+}
+
+.text3 {
+    text-align: left;
+    font-family:"Brush Script MT", cursive;
+    font-size: 50px;
+    color: black;
+}
+
+#options {
+    font-size: 32px;
+    color:purple;
+    text-align: left;
+}
+
+#recipe-name {
+    font-size: 69px;
+    font-weight: 500;
+    font-family: Copperplate, Papyrus, fantasy;
+    text-align: center;
+}
+
+
+.dishes {
+    height: auto;
+    width: 500px;
+}
+
+.gen-info {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px;
+    text-align: justify;
+    font-weight: 200;
+}
+
+.text4 {
+    font-size: 32px;
+    font-weight: 600;
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#ingreds {
+    font-size: 22px;
+    color: darkslategray;
+    font-style: italic;
+    text-align: left;
+}
+
+.stps {
+    font-size: 20px;
+    color: black;
+    text-align: justify;
+}
+
+.stps .num {
+    font-size: 26px;
+    font-weight: 250;
+    font-style: oblique;
+    text-align: left;
+}
+
+#ingreds2 {
+    font-style: italic;
+    font-size: 22px;
+    color:black;
+}
+
+#homepage {
+    text-align: right;
+    font-size: 24px;
+}
